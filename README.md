@@ -93,17 +93,6 @@ pyinstaller Hysplex.spec
 
 The executable will be created under `dist/`.
 
-## Repository notes
-
-The repository should contain source files only. Build outputs and personal runtime config are ignored:
-
-- `dist/`
-- `build/`
-- `release/`
-- `hysplex_apps.json`
-
-Upload packaged zip files through GitHub Releases instead of committing them to the source tree.
-
 ## License
 
 Hysplex is licensed under the GNU General Public License v3.0 or later. See [LICENSE.txt](LICENSE.txt).

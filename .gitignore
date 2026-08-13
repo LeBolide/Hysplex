@@ -33,5 +33,6 @@ branding/
 .DS_Store
 Thumbs.db
 
-# Local agent/project notes not needed by end users
+# Local maintainer/agent notes not needed by end users
 promptGuideline.md
+RELEASE_CHECKLIST.md
