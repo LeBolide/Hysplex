@@ -1,0 +1,52 @@
+{
+  "vr_mode_on": {
+    "kill_processes": [
+      "OneDrive.exe",
+      "Teams.exe",
+      "Discord.exe",
+      "Spotify.exe",
+      "msedge.exe",
+      "chrome.exe",
+      "firefox.exe"
+    ],
+    "stop_services": [
+      "SysMain",
+      "WSearch",
+      "DiagTrack",
+      "Print Spooler"
+    ],
+    "power_plan": "SCHEME_MIN",
+    "launch_linked_apps_sequentially": true
+  },
+  "vr_client": {
+    "name": "SteamVR",
+    "path": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "args": [
+      "-applaunch",
+      "250820"
+    ],
+    "launch_on_start": true
+  },
+  "vr_mode_off": {
+    "steamvr_shutdown_wait_seconds": 20,
+    "close_linked_apps": true,
+    "kill_processes": [
+      "vrmonitor.exe",
+      "vrserver.exe",
+      "vrdashboard.exe",
+      "vrcompositor.exe",
+      "vrwebhelper.exe",
+      "steamtours.exe"
+    ],
+    "start_services": [
+      "SysMain",
+      "WSearch",
+      "DiagTrack",
+      "Print Spooler"
+    ],
+    "power_plan": "SCHEME_BALANCED"
+  },
+  "linked_apps": [],
+  "start_with_windows": false,
+  "ui_theme": "Graphite"
+}

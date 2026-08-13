@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+release/
+*.egg-info/
+
+# PyInstaller temporary/output files
+*.manifest
+*.log
+
+# Local runtime config / personal app paths
+hysplex_apps.json
+**/hysplex_apps.json
+
+# Private design/reference material
+references/
+
+# Local editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local agent/project notes not needed by end users
+promptGuideline.md
