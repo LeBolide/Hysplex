@@ -97,5 +97,6 @@ The executable will be created under `dist/`.
 
 Hysplex is licensed under the GNU General Public License v3.0 or later. See [LICENSE.txt](LICENSE.txt).
 
+## Support
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O8K62505OD)
