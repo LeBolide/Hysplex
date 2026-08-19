@@ -97,4 +97,5 @@ The executable will be created under `dist/`.
 
 Hysplex is licensed under the GNU General Public License v3.0 or later. See [LICENSE.txt](LICENSE.txt).
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'O8K62505OD');kofiwidget2.draw();</script>
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O8K62505OD)
